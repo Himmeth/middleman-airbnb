@@ -1,0 +1,47 @@
+.btn-medium {
+  border: 1px solid rgba(0,0,0,.15);
+  font-weight: lighter;
+  border-radius: 20px;
+  text-decoration: none;
+  padding: 10px 16px;
+  color: rgba(0,0,0,.4);
+}
+
+.btn-medium:hover {
+  color: rgba(0, 0, 0, 0.7);
+  border:1px solid rgba(0, 0, 0, 0.6);
+}
+
+.btn-treehouse {
+  opacity: 2;
+  border: 2px solid #5fcf80;
+  font-weight: bold;
+  border-radius: 4px;
+  text-decoration: none;
+  padding: 10px 15px;
+  color: #5fcf80;
+}
+
+.btn-treehouse:hover {
+  color: white;
+  background: #5fcf80;
+}
+
+.btn-mine {
+  background: $pinkish-grey;
+  font-weight: lighter;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 10px 16px;
+  border-radius: 10%;
+}
+
+.btn-mine:hover {
+  transition: background-color 0.5s ease;
+  background-color: $dark-blue;
+}
+
+
+
+
+
+
